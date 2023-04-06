@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "place_name": "Cox's Bazar",
+        "details": "Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in south eastern near Chattogram Bangladesh. It is located 150 km (93 mi) south of the city of Chittagong. Cox's Bazar is also known by the name Panowa, which translates literally as 'yellow flower'. Another old name was 'Palongkee'.",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "id": 2,
+        "place_name": "Sajek",
+        "details": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+        "img": "https://porzoton.com/wp-content/uploads/2020/12/Sajek-valley-covered-with-white-clouds.jpg"
+    },
+    {
+        "id": 3,
+        "place_name": "Sreemangal",
+        "details": " Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in this upazila",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9f/59/66/caption.jpg?w=1200&h=-1&s=1"
+    },
+    {
+        "id": 4,
+        "place_name": "Sundarbans",
+        "details": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/65/03/8c/sundarban.jpg?w=1200&h=1200&s=1"
+    }
+]

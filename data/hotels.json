@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "h1",
+        "category_id": "01",
+        "name": "Cox's Bazar",
+        "rating": 4.3,
+        "pice": 120,
+        "title": " Hotel Sea Uttara",
+        "image_url": "https://pix10.agoda.net/hotelImages/5500481/-1/8e3a30fb31c49ae33a779a4345f3328a.jpg?ca=7&ce=1&s=450x450",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h2",
+        "category_id": "01",
+        "name": "Cox's Bazar",
+        "rating": 4.7,
+        "pice": 150,
+        "title": " Laguna Beach Hotel & Resort",
+        "image_url": "https://pix10.agoda.net/hotelImages/119/1196495/1196495_17122303270060592602.jpg?ca=6&ce=1&s=450x450",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h3",
+        "category_id": "01",
+        "name": "Cox's Bazar",
+        "rating": 4.5,
+        "pice": 120,
+        "title": "Long Beach Hotel",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/15/63/fa/46/royal-tulip-sea-pearl.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h4",
+        "category_id": "02",
+        "name": "Sajek",
+        "rating": 4.1,
+        "pice": 70,
+        "title": "Nil Pahari Eco Resort",
+        "image_url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1c/37/01/99/6774522.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h5",
+        "category_id": "02",
+        "name": "Sajek",
+        "rating": 4.7,
+        "pice": 130,
+        "title": "Relax Sajek Resort",
+        "image_url": "https://www.theonlinedokan.com/wp-content/uploads/2019/09/best-resort-in-sajek-valley.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h6",
+        "category_id": "02",
+        "name": "Sajek",
+        "rating": 4.5,
+        "pice": 59,
+        "title": "Madventure Resort",
+        "image_url": "https://www.travelmate.com.bd/wp-content/uploads/2021/01/sajek-valley-hotels-resorts-low-cost.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h7",
+        "category_id": "03",
+        "name": "Sreemangal",
+        "rating": 3.9,
+        "pice": 105,
+        "title": "Balishira Resort",
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/square200/352080124.jpg?k=45e5099b4f4ab4063242e696f0daebc7b079b11e0c539e89851ff353d6041c1b&o=",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h8",
+        "category_id": "03",
+        "name": "Sreemangal",
+        "rating": 4.5,
+        "pice": 120,
+        "title": "DuSain Resort And Spa",
+        "image_url": "https://sreemangalinn.com/wp-content/uploads/2022/03/2.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h9",
+        "category_id": "03",
+        "name": "Sreemangal",
+        "rating": 4.6,
+        "pice": 150,
+        "title": "Grand Sultan Tea Resort and Golf ",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7f/0b/84/near-is-srimongal-new.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h10",
+        "category_id": "04",
+        "name": "Sundarbans",
+        "rating": 4.3,
+        "pice": 130,
+        "title": "Hotel Sonar Bangla",
+        "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329614418.jpg?k=6d463b024131915ff68bc5ed9580342a1302c5249c346ee002be93cfb72599eb&o=&hp=1",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h11",
+        "category_id": "04",
+        "name": "Sundarbans",
+        "rating": 4.5,
+        "pice": 90,
+        "title": "Sundarbon Tiger Roar Resort",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/de/27/b8/royal-sundarban-wild.jpg",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    },
+    {
+        "_id": "h12",
+        "category_id": "04",
+        "name": "Sundarbans",
+        "rating": 4.00,
+        "pice": 100,
+        "title": "Sundarbon Tiger Camp - Wildlife Resort",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d0/d5/e1/royal-sundarban-wild.jpg?w=700&h=-1&s=1",
+        "details": "For 4 guests you have 2 bedrooms with 1 double bed in each room,wih 2 attach bath.1 kitchen.WI-FI and AC are available.Cancelation flexibility available"
+    }
+]
