@@ -7,6 +7,8 @@ const destinations = require('./data/destinations.json')
 const hotels = require('./data/hotels.json')
 
 app.use(cors())
+app.use(express.json());
+
 app.get('/', (req, res) => {
     res.send('Hello world')
 })
@@ -17,7 +19,7 @@ app.get('/destination', (req, res) => {
 
 app.get('/destination/:id', (req, res) => {
     const id = req.params.id;
-    const selectedDestinations = destinations.find(d => d.id == id)
+    const selectedDestinations = destinations.find(d => d.id === id)
     res.send(selectedDestinations);
 })
 
